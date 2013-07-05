@@ -1,0 +1,14 @@
+{
+  "name": "EmailExample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample email app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Jason Everett",
+  "dependencies": {
+    "nodemailer": "0.3.29"
+  }
+}
